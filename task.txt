@@ -1,0 +1,16 @@
+Titel:
+MAD2 Auswertungen
+
+Aufgabe:
+MAD2 Reportingscripts analysieren und anpassen. Vordefinierte Parameter werden ausgewertet, aggregiert und grafisch dargestellt, Demodaten werden zur Verfügung gestellt: 
+·         Anzahl Patienten, männlich weiblich 
+
+·         Alter mit Verteilung 
+
+- Balkendiagramm der Eingriffstypen
+
+- Eingriffszeiten (Durchschnitt, Max, Min, Histogramm)
+
+- Liste mit den 5 am häufigsten verwendeten Spezialmedikamenten
+
+
